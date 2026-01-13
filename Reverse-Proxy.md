@@ -87,7 +87,7 @@ Unlike other web apps, Uptime Kuma is based on WebSocket. You need two more head
   </details>
 - <details><summary>Nginx Proxy Manager</summary>
 
-  Please enable "WebSockets Supports"
+  Please enable "WebSockets Support"
 
   </details>
 - <details><summary>Apache</summary>
